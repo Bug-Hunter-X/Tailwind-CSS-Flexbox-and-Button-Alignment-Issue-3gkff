@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug encountered when using Tailwind CSS's flexbox utilities to align elements within a container. Specifically, the issue involves a button positioned to the right within a flex container, which exhibits unexpected behavior depending on the parent container's width and the button's styling.
